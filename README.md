@@ -74,7 +74,7 @@ Creating a Transaction
 
 Retrieving Transactions
 
-Retrieving Transactions
+![image alt](https://github.com/yprasad28/transcationMangementApi/blob/55d942be81bb3aae774fbd5ba6bb30b4d68da280/Screenshot%202024-11-22%20100203.png)
 
 Updating a Transaction
 
