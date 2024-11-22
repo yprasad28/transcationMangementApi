@@ -78,7 +78,7 @@ Retrieving Transactions
 
 Updating a Transaction
 
-Updating a Transaction
+![image alt](https://github.com/yprasad28/transcationMangementApi/blob/2c738a5998a711efb2050503d77a418cfe0fedeb/Screenshot%202024-11-22%20100314.png)
 
 ### License
 
