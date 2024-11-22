@@ -80,6 +80,10 @@ Updating a Transaction
 
 ![image alt](https://github.com/yprasad28/transcationMangementApi/blob/2c738a5998a711efb2050503d77a418cfe0fedeb/Screenshot%202024-11-22%20100314.png)
 
+Retrieving updating Transaction 
+
+1[image alt](https://github.com/yprasad28/transcationMangementApi/blob/57436959639d1dc2fbe4bbb807297f9e0a9f48b4/Screenshot%202024-11-22%20100359.png)
+
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
