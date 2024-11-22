@@ -64,13 +64,13 @@ DELETE /api/transactions/:id: Delete a transaction by ID
 
 
 # Screenshots
-Starting the Server
 
-Starting the Server
 
-Creating a Transaction
+
 
 Creating a Transaction
+
+![image alt](https://github.com/yprasad28/transcationMangementApi/blob/d85dc64eeeb5a6d9bbf40764db50adcef2c0c599/Screenshot%202024-11-22%20100036.png)
 
 Retrieving Transactions
 
